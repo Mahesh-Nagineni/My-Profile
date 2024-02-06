@@ -8,6 +8,9 @@
       width: 420px;
       height: 480px;
     }
+     h3{
+      text-align:right;
+    }
   }
   #Mahesh{
     border: 1rem solid grey;
