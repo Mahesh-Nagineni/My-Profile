@@ -6,8 +6,8 @@
 <style>
   @media(max-width:680px){
     body{
-      width: 480px;
-      height: 580px;
+      width: 380px;
+      height: 480px;
     }
   }
   #Mahesh{
