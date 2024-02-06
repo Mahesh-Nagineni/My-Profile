@@ -6,7 +6,7 @@
 <style>
   @media(max-width:680px){
     body{
-      width: 380px;
+      width: 420px;
       height: 480px;
     }
   }
