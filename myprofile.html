@@ -55,8 +55,8 @@ h3{
 <div>
   <h1 class="z">Educational Qualifications</h1>
     <p>
-      <li>2021-2025:Now I am Pursuing B.tech 3rd Year-and secured with 78%.</li></br>
-      <li>2019-2021:I completed my intermediate in sri chaitanya junior college-and secured with 94.5%.</li></br>
+      <li>2021-2025:Now I am Pursuing B.tech 3rd Year-and secured with 78%.</li><br>
+      <li>2019-2021:I completed my intermediate in sri chaitanya junior college-and secured with 94.5%.</li><br>
     <li>2018-2019:I completed my SCC in sri satya sai E.M school-and secured with 9.2GPA.</li></p>
 </div>
 <h1 class="z">Technical Skills</h1>
