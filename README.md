@@ -8,9 +8,6 @@
       width: 420px;
       height: 480px;
     }
-     h3{
-      text-align:right;
-    }
   }
   #Mahesh{
     border: 1rem solid grey;
@@ -81,7 +78,7 @@ h3{
 </p>
 <div class="rey">
   <h1 style="text-align: center;">***</h1>
-  <h3>Signature<br>N.Mahesh</h3>
+  <h3>Signature <br> N.Mahesh</h3>
 </div>
       </div>
 </body>
